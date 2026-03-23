@@ -2,7 +2,7 @@
 
 PositionalAudioを使って音像定位。
 
-デモ https://vgurusnd.takosatou.io/
+デモ https://takosatou.github.io/vgurusnd/
 
 ## 使い方
 
